@@ -4,13 +4,13 @@
     "image": "https://raw.githubusercontent.com/mahanGurung/testcoin/refs/heads/main/testcoin/logos/testcoin_logo.png",
     "asset": {
         "name": "Test",
-        "image": "https://pbs.twimg.com/media/GySE1f9a4AMMdH3?format=jpg&name=large",
-        "location": "San Francisco, California",
-        "valuation": "$22,000,000",
-        "tokens": "22,000,000",
-        "apr": "6.3%",
-        "description": "A San Francisco-based trucking and logistics company providing full-spectrum freight solutions. The company operates a diversified fleet including long-haul trucks, refrigerated carriers, and last-mile delivery vans. Services range from port drayage and cross-country shipping to regional distribution and warehouse-to-retail delivery. With strategic access to the Bay Area’s major ports and interstate networks, S & I Logistic Solution LLC plays a vital role in connecting global imports with U.S. markets.",
-        "staking": "Stakers earn a share of revenues from freight contracts, logistics management services, and fuel optimization savings. Rewards scale with shipping volumes, particularly during seasonal e-commerce peaks and high-demand trade cycles. Additional incentives come from fleet modernization initiatives such as electrification and carbon credit trading, alongside long-term partnerships with retail and manufacturing clients."
+        "image": "https://raw.githubusercontent.com/mahanGurung/testcoin/refs/heads/main/testcoin/logos/testcoin_logo.png",
+        "location": "Heritage Square",
+        "valuation": "$10,000,000",
+        "tokens": "10,000,000",
+        "apr": "4.0%",
+        "description": "A state-of-the-art cultural and creative hub featuring theaters, art galleries, performance halls, and exhibition spaces. Hosts year-round art festivals, concerts, film screenings, and cultural programs that attract both locals and tourists. The center integrates blockchain-based digital ticketing and NFT membership passes for exclusive experiences.",
+        "staking": "Stakers share in ticketing revenues, event sponsorship deals, and merchandise sales. They also gain exclusive perks such as early access to premium events, discounted entry, and access to NFT-gated VIP lounges."
       }
     
 }
