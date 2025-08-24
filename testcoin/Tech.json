@@ -4,6 +4,7 @@
     "image": "https://raw.githubusercontent.com/mahanGurung/testcoin/refs/heads/main/testcoin/logos/testcoin_logo.png",
     "asset": {
         "name": "Tech Innovation Tower",
+        "image": "https://raw.githubusercontent.com/mahanGurung/testcoin/refs/heads/main/testcoin/logos/Tech%20Innovation%20Tower%20Logo%20Design.png",
         "location": "Downtown Business District",
         "valuation": "$40,000,000",
         "tokens": "40,000,000",

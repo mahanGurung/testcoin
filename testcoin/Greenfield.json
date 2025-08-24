@@ -4,6 +4,7 @@
     "image": "https://raw.githubusercontent.com/mahanGurung/testcoin/refs/heads/main/testcoin/logos/testcoin_logo.png",
     "asset": {
         "name": "Greenfield Solar Park",
+        "image": "https://raw.githubusercontent.com/mahanGurung/testcoin/refs/heads/main/testcoin/logos/GreenField.png",
         "location": "Suburban Energy Zone",
         "valuation": "$18,000,000",
         "tokens": "18,000,000",

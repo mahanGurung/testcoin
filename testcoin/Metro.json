@@ -4,6 +4,7 @@
     "image": "https://raw.githubusercontent.com/mahanGurung/testcoin/refs/heads/main/testcoin/logos/testcoin_logo.png",
     "asset": {
         "name": "Metro Transit Hub",
+        "image": "https://raw.githubusercontent.com/mahanGurung/testcoin/refs/heads/main/testcoin/logos/Metro.png",
         "location": "Central Station Area",
         "valuation": "$12,000,000",
         "tokens": "12,000,000",
