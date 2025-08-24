@@ -1,7 +1,7 @@
 {
     "name": "Greenfield",
     "description": "Real world asset that give btc and membership to the staker of the coin",
-    "image": "https://raw.githubusercontent.com/mahanGurung/testcoin/refs/heads/main/testcoin/logos/testcoin_logo.png",
+    "image": "https://raw.githubusercontent.com/mahanGurung/testcoin/refs/heads/main/testcoin/logos/GreenField.png",
     "asset": {
         "name": "Greenfield Solar Park",
         "image": "https://raw.githubusercontent.com/mahanGurung/testcoin/refs/heads/main/testcoin/logos/GreenField.png",

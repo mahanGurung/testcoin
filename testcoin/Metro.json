@@ -1,7 +1,7 @@
 {
     "name": "Metro",
     "description": "Real world asset that give btc and membership to the staker of the coin",
-    "image": "https://raw.githubusercontent.com/mahanGurung/testcoin/refs/heads/main/testcoin/logos/testcoin_logo.png",
+    "image": "https://raw.githubusercontent.com/mahanGurung/testcoin/refs/heads/main/testcoin/logos/Metro.png",
     "asset": {
         "name": "Metro Transit Hub",
         "image": "https://raw.githubusercontent.com/mahanGurung/testcoin/refs/heads/main/testcoin/logos/Metro.png",
