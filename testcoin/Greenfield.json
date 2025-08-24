@@ -1,0 +1,15 @@
+{
+    "name": "Greenfield",
+    "description": "Real world asset that give btc and membership to the staker of the coin",
+    "image": "https://raw.githubusercontent.com/mahanGurung/testcoin/refs/heads/main/testcoin/logos/testcoin_logo.png",
+    "asset": {
+        "name": "Greenfield Solar Park",
+        "location": "Suburban Energy Zone",
+        "valuation": "$18,000,000",
+        "tokens": "18,000,000",
+        "apr": "7.1%",
+        "description": "A 150-acre renewable energy facility featuring thousands of high-efficiency solar panels connected to the regional power grid. Provides clean energy to metropolitan areas and benefits from government-backed subsidies, tax credits, and long-term power purchase agreements with corporations.",
+        "staking": "Stakers earn from stable revenue streams of energy sales, renewable energy certificates, and carbon credit trading. Bonus incentives are distributed when power generation exceeds grid demand or during government renewable policy initiatives."
+      }
+    
+}

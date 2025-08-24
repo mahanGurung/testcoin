@@ -1,0 +1,15 @@
+{
+    "name": "Metro",
+    "description": "Real world asset that give btc and membership to the staker of the coin",
+    "image": "https://raw.githubusercontent.com/mahanGurung/testcoin/refs/heads/main/testcoin/logos/testcoin_logo.png",
+    "asset": {
+        "name": "Metro Transit Hub",
+        "location": "Central Station Area",
+        "valuation": "$12,000,000",
+        "tokens": "12,000,000",
+        "apr": "4.5%",
+        "description": "Major transit hub connecting subway, bus lines, and regional rail with commercial spaces and digital advertising infrastructure. Includes retail kiosks, office units, and a smart mobility integration system serving tens of thousands of commuters daily.",
+        "staking": "Stakers earn revenue shares from retail leasing, advertising billboards, and commuter service fees. Additional incentives are tied to long-term transit authority contracts and future smart-city infrastructure integrations."
+      }
+    
+}

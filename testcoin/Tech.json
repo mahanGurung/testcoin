@@ -1,0 +1,15 @@
+{
+    "name": "Tech",
+    "description": "Real world asset that give btc and membership to the staker of the coin",
+    "image": "https://raw.githubusercontent.com/mahanGurung/testcoin/refs/heads/main/testcoin/logos/testcoin_logo.png",
+    "asset": {
+        "name": "Tech Innovation Tower",
+        "location": "Downtown Business District",
+        "valuation": "$40,000,000",
+        "tokens": "40,000,000",
+        "apr": "6.0%",
+        "description": "A landmark skyscraper dedicated to innovation and technology firms. Offers Grade-A office spaces, dedicated co-working floors, conference halls, and smart IoT-enabled infrastructure. The tower serves as a central hub for startups, accelerators, and venture firms, making it a hotspot for corporate partnerships and deal flow.",
+        "staking": "Stakers receive a portion of tenant lease revenues, premium co-working subscription income, and advertising space profits. Additional benefits include early access to tenant-hosted networking events and preferential investment allocations in startup demo-days."
+      }
+    
+}
